@@ -1,4 +1,3 @@
-
 body{
     margin: 0;
     padding: 0;
@@ -96,8 +95,9 @@ body{
     font-size: 19px;
 }
 
+/*close icon */
 .sidebar-title > span{
-  display: none;
+  display: none;                
 }
 
 .sidebar-brand {
@@ -239,6 +239,8 @@ body{
           font-size: 25px;
 }
 
+/*--------------------------*/
+
 /*--Media Query--*/
 
 /* Meduim :992px*/
@@ -259,8 +261,6 @@ body{
       .sidebar-title > span{
        display: inline;
       }
-
-
 
 }
 
